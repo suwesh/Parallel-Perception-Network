@@ -1,5 +1,3 @@
-Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing
-
 # Parallel-Perception-Network
 Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing
 # Abstract:
